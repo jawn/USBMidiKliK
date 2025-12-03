@@ -81,7 +81,7 @@ The following menu should appear after pressing ENTER :
 
 ## Temporary boot in Arduino serial mode (0x09)
 
-If you need to update the Arduino firmware without positionnig a jumper, you can you cand send this sysex that will reboot the device in serial mode, until the next boot.
+If you need to update the Arduino firmware without positionnig a jumper, you can you can send this sysex that will reboot the device in serial mode, until the next boot.
 
      F0 77 77 77 09 F7
 
